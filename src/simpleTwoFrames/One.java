@@ -46,14 +46,14 @@ public class One extends javax.swing.JFrame {
             .addGroup(layout.createSequentialGroup()
                 .addGap(159, 159, 159)
                 .addComponent(jButton1)
-                .addContainerGap(188, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addGap(109, 109, 109)
                 .addComponent(jButton1)
-                .addContainerGap(168, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         pack();
